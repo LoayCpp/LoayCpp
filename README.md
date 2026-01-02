@@ -1,0 +1,35 @@
+# Hi there 👋 I'm Loay Alarify 
+
+### 💻 Software Engineering Student | C++, C# & Mobile App Development
+
+I am a passionate developer from Yemen, currently focused on learning programming and building real-world projects. I enjoy sharing my coding journey and exploring new technologies.
+
+---
+
+### 🌐 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/loay-anwar-alarify-259634260" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/share/1ByuvJEiyu/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/7.loa7?igsh=cWxjeHRzM2pnaWc2" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+### 🛠 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Mobile_App_Dev-📱-blue" alt="Mobile" />
+</p>
+
+---
+
+### 📊 My GitHub Stats:
+![Loay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoayCpp&show_icons=true&theme=radical)
