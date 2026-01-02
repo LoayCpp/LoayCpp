@@ -34,9 +34,6 @@ I am a passionate developer from Yemen, currently focused on learning programmin
 ### 📊 My GitHub Stats:
 <p align="left">
   <a href="https://github.com/LoayCpp">
-    <img src="https://github-readme-stats.vercel.app/api?username=LoayCpp&show_icons=true&theme=radical" height="180"/>
-  </a>
-  <a href="https://github.com/LoayCpp">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="180"/>
   </a>
 </p>
