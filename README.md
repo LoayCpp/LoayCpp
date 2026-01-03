@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Loay Alarify 
 
-### 💻 Software Engineering Student | C++, C# & Mobile App Development
+### 💻Information Technology Student | C++, C# & Mobile App Development
 
 I am a passionate developer from Yemen, currently focused on learning programming and building real-world projects. I enjoy sharing my coding journey and exploring new technologies.
 
