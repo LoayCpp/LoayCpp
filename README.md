@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Loay Alarify 
 
-### 💻 Software Engineering Student | C++, C# & Mobile App Development
+### 💻Information Technology Student | C++, C# & Mobile App Development
 
 I am a passionate developer from Yemen, currently focused on learning programming and building real-world projects. I enjoy sharing my coding journey and exploring new technologies.
 
@@ -33,9 +33,6 @@ I am a passionate developer from Yemen, currently focused on learning programmin
 
 ### 📊 My GitHub Stats:
 <p align="left">
-  <a href="https://github.com/LoayCpp">
-    <img src="https://github-readme-stats.vercel.app/api?username=LoayCpp&show_icons=true&theme=radical" height="180"/>
-  </a>
   <a href="https://github.com/LoayCpp">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="180"/>
   </a>
