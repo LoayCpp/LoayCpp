@@ -23,7 +23,10 @@ I am a passionate developer from Yemen, currently focused on learning programmin
   </a>
     <a href="https://wa.me/967733693579" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+  </a>   
+  <a href="https://x.com/7lo_ay" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 </p>
 
 ---
