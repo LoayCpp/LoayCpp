@@ -50,9 +50,10 @@ I am a passionate developer from Yemen, currently focused on learning programmin
 ---
 
 ### 📊 My GitHub Stats:
-<p align="left">
-  <a href="https://github.com/LoayCpp">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="180"/>
-  </a>
+<p align="center">
+<strong> Loay Anwar</strong> <br>
+ <a href="https://github.com/LoayCpp">
+    <img width="100" height="100" alt="Loay-modified" src="https://github.com/user-attachments/assets/8fee5f57-fc06-4723-a7ad-2d077ab1d7e2" />
+</a>
 </p>
 
