@@ -1,4 +1,7 @@
-# Hi there 👋 I'm Loay Alarify 
+# Hi there 😊:  <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=I`m+Loay+Alarify;Mobile+Application+Developer" />  </p>
+   
+      
+
 
 ### 💻Information Technology Student | C++, C# & Mobile App Development
 
