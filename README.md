@@ -1,7 +1,22 @@
-# Hi there 😊:  <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=I`m+Loay+Alarify;Mobile+Application+Developer" />  </p>
-   
-      
+<h1 align="center">
+  Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8fee5f57-fc06-4723-a7ad-2d077ab1d7e2" 
+       width="120" height="120" 
+       alt="Loay Profile" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I'm+Loay+Alarify;Mobile+Application+Developer" />
+</p>
+
+
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ### 💻Information Technology Student | C++, C# & Mobile App Development
 
@@ -54,10 +69,20 @@ I am a passionate developer from Yemen, currently focused on learning programmin
 ---
 
 ### 📊 My GitHub Stats:
-<p align="center">
-<strong> Loay Anwar</strong> <br>
- <a href="https://github.com/LoayCpp">
-    <img width="100" height="100" alt="Loay-modified" src="https://github.com/user-attachments/assets/8fee5f57-fc06-4723-a7ad-2d077ab1d7e2" />
-</a>
-</p>
+
+<h3 align="left">🔥  My Stats :</h3>
+
+<div align="center" style="position: relative; display: inline-block;">
+  <img src="https://streak-stats.demolab.com?user=LoayCpp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  
+  <div style="position: absolute; top: 20px; right: 20px;">
+   
+  </div>
+</div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+
 
