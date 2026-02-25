@@ -67,7 +67,7 @@ I am a passionate developer from Yemen, currently focused on learning programmin
 
 ---
 
-### 📊 My GitHub Stats:
+
 
 <h3 align="left">🔥  My Stats :</h3>
 
