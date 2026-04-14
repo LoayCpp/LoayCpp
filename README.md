@@ -45,6 +45,9 @@ I am a passionate developer from Yemen, currently focused on learning programmin
   <a href="https://x.com/7lo_ay" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
+  <a href="https://www.reddit.com/user/Luai_Dev" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+</a>
 </p>
 
 ---
